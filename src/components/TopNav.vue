@@ -40,7 +40,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #bebc22;
+  background-color: #07f33a;
   color: #fff;
   padding-top: 0.5rem;
   padding-left: 1rem;
